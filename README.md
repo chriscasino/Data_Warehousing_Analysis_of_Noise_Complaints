@@ -16,6 +16,13 @@
 * Average temperature per month
 * Average temperature at location/borough
 
+## Procedure:
+1. Identify the two datasets to be used for analysis
+2. Create Dimensional Models for both datasets
+3. Create the Integrated Warehouse Model for both datasets to be used in the analysis
+4. Write scripts in Python to clean data of N/A values and duplicates, and load data into Google Big Query 
+5. Create queries in Google Big Query to measure APIs
+6. Visualize findings of analysis using Tableau
 
 
 ###### Citation:
