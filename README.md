@@ -1,6 +1,6 @@
 # Data Warehousing Analysis of Noise Complaints
 
-###### For this project we have analyzed two different datasets, “311 Service Requests from 2010 to Present” and the Weather dataset. The 311 Service Request is an online dataset consisting of all the different complaints made to 311. The data provides information like complaint type, location and time. The weather dataset consists of the daily weather for the past 6 years, providing date, location, temperature, precipitation amount, dewpoint and wind speed. 
+#### For this project we have analyzed two different datasets, “311 Service Requests from 2010 to Present” and the Weather dataset. The 311 Service Request is an online dataset consisting of all the different complaints made to 311. The data provides information like complaint type, location and time. The weather dataset consists of the daily weather for the past 6 years, providing date, location, temperature, precipitation amount, dewpoint and wind speed. 
 
 ## With the two datasets, we have mapped the following KPIs:
 
