@@ -4,11 +4,11 @@
 
 ## With the two datasets, we have mapped the following KPIs:
 
-###### * Number of “Residential” Noise complaints per day/month
-###### * Number of “Commercial” Noise complaints per day/month
-###### * Number of Complaints per Complaint Type
-###### * Average temperature per month
-###### * Average temperature at location/borough
+* Number of “Residential” Noise complaints per day/month
+* Number of “Commercial” Noise complaints per day/month
+* Number of Complaints per Complaint Type
+* Average temperature per month
+* Average temperature at location/borough
 
 
 
